@@ -1,0 +1,13 @@
+name: TrainProtectionRadioPlugin
+version: '${version}'
+main: jp.masa300.plugin.rtm.trainprotectionradioplugin.TrainProtectionRadioPlugin
+authors: [ masa300 ]
+description: TrainProtectionRadio Plugin
+
+commands:
+  tprp:
+    description: Train Protection Radio Plugin
+    usage: Command Error
+  bougo:
+    description: Train Protection Radio Plugin
+    usage: Command Error
