@@ -1,0 +1,2 @@
+# TrainProtectionRadioPlugin
+RTM運転会向けの列車防護無線っぽいものを再現したプラグインです。
